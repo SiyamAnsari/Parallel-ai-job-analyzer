@@ -10,3 +10,4 @@ __pycache__/
 
 # Generated reports
 job_analysis_report.pdf
+*.py
