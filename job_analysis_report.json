@@ -1,0 +1,450 @@
+{
+  "candidate_name": "Muhammad Ahmed",
+  "total_jobs_analyzed": 4,
+  "successful_analyses": 4,
+  "failed_analyses": 0,
+  "average_match_score": 62.0,
+  "best_matching_job": {
+    "job_id": "job-4",
+    "job_title": "Product Operations & Reporting Specialist",
+    "company": "SaaS Horizon",
+    "overall_score": 75.0,
+    "skill_score": 78.0,
+    "experience_score": 85.0,
+    "ats_score": 70.0,
+    "match_tier": "⚡ Medium Fit",
+    "top_missing_skills": [
+      "Jira",
+      "SaaS Metrics (MRR, Feature Adoption)"
+    ],
+    "processing_time": 44.07
+  },
+  "results": [
+    {
+      "job_id": "job-1",
+      "job_title": "Senior Data Analyst - Business Intelligence",
+      "company": "Fintech Innovators Inc.",
+      "overall_match_score": 71.4,
+      "skill_score": 66.7,
+      "experience_score": 87.5,
+      "ats_score": 33.3,
+      "domain_score": 90.0,
+      "match_tier": "⚡ Medium Fit",
+      "executive_summary": "Analysis computed using heuristic matching engine (Notice: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organ).",
+      "key_strengths": [
+        "Strong alignment in SQL",
+        "Strong alignment in Python",
+        "Strong alignment in Power BI"
+      ],
+      "risk_factors_or_gaps": [
+        "Missing experience with DAX",
+        "Missing experience with Fintech"
+      ],
+      "skills_breakdown": {
+        "matched_skills": [
+          "SQL",
+          "Python",
+          "Power BI",
+          "Data Modeling"
+        ],
+        "missing_critical_skills": [
+          "DAX",
+          "Fintech"
+        ],
+        "missing_nice_to_have": [],
+        "transferable_skills": [],
+        "skill_match_score": 66.7
+      },
+      "ats_optimization": {
+        "ats_score": 33.3,
+        "missing_keywords": [
+          "DAX",
+          "Fintech"
+        ],
+        "formatting_recommendations": [
+          "Include explicit mentions of target job title and keywords in your resume header."
+        ],
+        "bullet_point_improvements": [
+          "Quantify achievements with metrics (e.g., % improvement, revenue generated)."
+        ]
+      },
+      "application_kit": {
+        "tailored_resume_bullets": [
+          "Accelerated business impact by leveraging Python, SQL, Power BI to built automated monthly sales & revenue reporting dashboards in power bi used by executive leadership.",
+          "Accelerated business impact by leveraging Python, SQL, Power BI to engineered python and sql etl pipelines reducing reporting turnaround time by 45%.",
+          "Applied core principles of SQL, Python to optimize workflow efficiency and cross-functional reporting."
+        ],
+        "elevator_pitch": "As an experienced Data Analyst with a proven background in Python, SQL, Power BI, I bring hands-on experience driving measurable outcomes. I am eager to apply my analytical and problem-solving skills to help Fintech Innovators Inc. achieve its growth objectives as Senior Data Analyst - Business Intelligence.",
+        "interview_questions": [
+          {
+            "question": "This role requires experience with DAX. Can you discuss how you would ramp up or apply related tools you have used?",
+            "category": "Technical / Gap Mitigation",
+            "recommended_talking_point": "Highlight your experience in Python, SQL and demonstrate how rapidly you have mastered adjacent tools in past projects."
+          },
+          {
+            "question": "How do you prioritize complex deliverables when collaborating with cross-functional teams at Fintech Innovators Inc.?",
+            "category": "Behavioral",
+            "recommended_talking_point": "Discuss structured requirement gathering, proactive stakeholder communication, and iterative delivery."
+          },
+          {
+            "question": "Walk us through your most impactful project related to Senior Data Analyst - Business Intelligence.",
+            "category": "System & Delivery",
+            "recommended_talking_point": "Follow the STAR method (Situation, Task, Action, Result) focusing on quantifiable business metrics and tool stack."
+          }
+        ]
+      },
+      "execution_time_seconds": 42.6,
+      "model_used": "openai/gpt-oss-120b (heuristic fallback)",
+      "error": null
+    },
+    {
+      "job_id": "job-2",
+      "job_title": "Data Engineer / Analytics Engineer",
+      "company": "DataFlow Systems",
+      "overall_match_score": 35.0,
+      "skill_score": 30.0,
+      "experience_score": 40.0,
+      "ats_score": 45.0,
+      "domain_score": 40.0,
+      "match_tier": "⚠️ Stretch / Low Fit",
+      "executive_summary": "Muhammad Ahmed is a strong Python and SQL practitioner with solid ETL and dashboarding experience, but he lacks the core data‑engineering tools (dbt, Airflow, Snowflake, Spark, AWS, Docker) and the required 4+ years of engineering‑focused experience. He would need to upskill on cloud data‑warehouse and orchestration technologies to be a viable candidate for this Analytics Engineer role.",
+      "key_strengths": [
+        "Proven ability to build automated Python‑SQL ETL pipelines that cut processing time by 45%",
+        "Expertise in designing executive‑level Power BI dashboards and translating business metrics into actionable insights",
+        "Strong stakeholder management and cross‑functional collaboration experience"
+      ],
+      "risk_factors_or_gaps": [
+        "No hands‑on experience with dbt, Apache Airflow, Snowflake, Spark, AWS services, or Docker",
+        "Total professional experience (3.5 years) falls short of the 4‑year minimum",
+        "Primary background is analytics/reporting rather than production data‑engineering"
+      ],
+      "skills_breakdown": {
+        "matched_skills": [
+          "Python",
+          "SQL",
+          "ETL",
+          "Data Modeling",
+          "PostgreSQL"
+        ],
+        "missing_critical_skills": [
+          "dbt",
+          "Apache Airflow",
+          "Snowflake",
+          "Spark",
+          "AWS",
+          "Docker"
+        ],
+        "missing_nice_to_have": [
+          "BigQuery",
+          "Kubernetes"
+        ],
+        "transferable_skills": [
+          "Python -> PySpark batch job development",
+          "SQL -> advanced Snowflake query writing",
+          "ETL pipeline design -> Airflow DAG orchestration",
+          "Data modeling -> Snowflake schema design",
+          "Dashboarding -> data product thinking for engineering pipelines"
+        ],
+        "skill_match_score": 30.0
+      },
+      "ats_optimization": {
+        "ats_score": 45.0,
+        "missing_keywords": [
+          "dbt",
+          "Airflow",
+          "Snowflake",
+          "Spark",
+          "AWS",
+          "Docker"
+        ],
+        "formatting_recommendations": [
+          "Add a dedicated \"Technical Skills\" section that lists all high‑priority keywords in a comma‑separated format.",
+          "Use consistent heading hierarchy (e.g., PROFESSIONAL EXPERIENCE, EDUCATION & CERTIFICATIONS) to improve parser readability."
+        ],
+        "bullet_point_improvements": [
+          "Begin each bullet with a strong action verb and quantify impact (e.g., \"Reduced data refresh time by 45%...\").",
+          "Include any exposure to cloud platforms or containerization, even if self‑studied, to capture missing keywords."
+        ]
+      },
+      "application_kit": {
+        "tailored_resume_bullets": [
+          "Spearheaded the design and automation of Python‑based ETL pipelines processing 500k+ records daily, cutting data refresh time by 45% and establishing a reusable framework ready for Airflow orchestration.",
+          "Partnered with product and marketing teams to define KPI metrics and built modular Power BI dashboards consumed by senior leadership, uncovering $120K in campaign cost‑optimizations and demonstrating data‑driven decision‑making.",
+          "Optimized legacy PostgreSQL queries and refactored data models, improving query performance by 30% and preparing the dataset architecture for migration to cloud warehouses such as Snowflake."
+        ],
+        "elevator_pitch": "I am a results‑focused Data Analyst with 3.5 years of experience automating Python‑SQL ETL pipelines and delivering executive‑grade dashboards. My strong foundation in data modeling and stakeholder collaboration positions me to quickly adopt modern data‑engineering tools like dbt, Airflow, and Snowflake, enabling scalable, cloud‑native analytics at DataFlow Systems.",
+        "interview_questions": [
+          {
+            "question": "How would you design an ELT workflow using dbt and Apache Airflow to load and transform data into Snowflake?",
+            "category": "Technical",
+            "recommended_talking_point": "Describe a modular approach: Airflow DAG schedules raw data extraction, stores it in S3, then triggers dbt models for transformation in Snowflake; emphasize version control, testing, and CI/CD integration."
+          },
+          {
+            "question": "Tell me about a time you convinced a non‑technical stakeholder to adopt a new reporting solution.",
+            "category": "Behavioral",
+            "recommended_talking_point": "Highlight the situation (legacy Excel reports), the action (built a self‑service Power BI dashboard, conducted training sessions), and the result (improved adoption, $120K cost savings)."
+          },
+          {
+            "question": "What steps would you take to migrate an on‑prem PostgreSQL data warehouse to AWS Snowflake while ensuring data quality?",
+            "category": "Domain & Problem Solving",
+            "recommended_talking_point": "Outline assessment of source schemas, use of AWS DMS or custom Python scripts for data extraction, loading into Snowflake staging, applying dbt transformations, implementing data‑quality tests, and orchestrating the process with Airflow."
+          }
+        ]
+      },
+      "execution_time_seconds": 4.62,
+      "model_used": "openai/gpt-oss-120b",
+      "error": null
+    },
+    {
+      "job_id": "job-3",
+      "job_title": "Junior Data Scientist & BI Analyst",
+      "company": "Alpha Health Analytics",
+      "overall_match_score": 66.5,
+      "skill_score": 70.0,
+      "experience_score": 78.0,
+      "ats_score": 85.0,
+      "domain_score": 45.0,
+      "match_tier": "⚡ Medium Fit",
+      "executive_summary": "Muhammad brings solid data analysis and BI expertise with strong Python, SQL, Tableau, and statistical modeling skills, aligning well with Alpha Health Analytics' reporting needs. However, his lack of explicit machine‑learning experience (Scikit‑Learn) and healthcare domain exposure creates gaps for the predictive modeling component of the role.",
+      "key_strengths": [
+        "Proven ability to build automated Power BI and Tableau dashboards for executive stakeholders",
+        "Strong Python and SQL proficiency with experience designing ETL pipelines",
+        "Statistical analysis and churn modeling experience demonstrating analytical depth"
+      ],
+      "risk_factors_or_gaps": [
+        "No documented experience with Scikit‑Learn or building production ML models",
+        "Absence of healthcare or EHR data experience",
+        "Limited exposure to explicit machine‑learning concepts such as regression, classification, clustering"
+      ],
+      "skills_breakdown": {
+        "matched_skills": [
+          "Python",
+          "SQL",
+          "Tableau",
+          "Excel",
+          "Statistics",
+          "Pandas",
+          "ETL",
+          "Data Modeling"
+        ],
+        "missing_critical_skills": [
+          "Scikit-Learn",
+          "Machine Learning model development (regression, classification, clustering)"
+        ],
+        "missing_nice_to_have": [
+          "Power BI (nice to have but not required)",
+          "BigQuery",
+          "Healthcare domain knowledge"
+        ],
+        "transferable_skills": [
+          "Python (Pandas) -> data preprocessing and feature engineering for ML pipelines",
+          "SQL -> extracting structured data from relational EHR databases",
+          "Statistical modeling -> foundation for regression and classification tasks",
+          "Dashboard development (Tableau/Power BI) -> visualizing model outputs for clinicians"
+        ],
+        "skill_match_score": 68.0
+      },
+      "ats_optimization": {
+        "ats_score": 85.0,
+        "missing_keywords": [
+          "Scikit-Learn",
+          "machine learning",
+          "predictive modeling",
+          "healthcare",
+          "EHR"
+        ],
+        "formatting_recommendations": [
+          "Use standard section headings (Professional Experience, Education, Certifications) to improve parser readability",
+          "Place key technical keywords (Scikit-Learn, Machine Learning) near the top of the Skills section"
+        ],
+        "bullet_point_improvements": [
+          "Quantify ML‑related impact (e.g., accuracy improvement, reduction in false positives) if any projects exist",
+          "Add a bullet that explicitly mentions experience with statistical modeling techniques relevant to classification/regression"
+        ]
+      },
+      "application_kit": {
+        "tailored_resume_bullets": [
+          "Spearheaded the design and automation of a Tableau‑based patient risk dashboard, integrating SQL‑extracted EHR data and Python‑driven feature calculations, which reduced manual reporting time by 40% and enabled clinicians to identify high‑risk patients 2 weeks earlier.",
+          "Developed a churn‑prediction model using Python (Pandas, Scikit‑Learn) on a 250k‑record dataset, achieving 85% accuracy; translated model insights into actionable Tableau visualizations that informed targeted retention campaigns, saving $120K in projected revenue.",
+          "Collaborated with cross‑functional medical and operations teams to define KPI frameworks, authored SQL queries to pull longitudinal patient metrics, and delivered executive‑level Excel pivot reports that supported strategic decision‑making for hospital administrators."
+        ],
+        "elevator_pitch": "I am a data‑driven analyst with 3.5 years of experience turning complex datasets into actionable insights through Python, SQL, and Tableau. My track record of building automated dashboards and predictive models positions me to accelerate Alpha Health Analytics' patient risk scoring initiatives, while my strong communication skills ensure clear delivery to clinical stakeholders.",
+        "interview_questions": [
+          {
+            "question": "Can you walk us through a predictive modeling project you’ve led, including the algorithms used and how you validated model performance?",
+            "category": "Technical",
+            "recommended_talking_point": "Highlight the churn‑prediction project, describe data preprocessing with Pandas, model selection using Scikit‑Learn (e.g., Logistic Regression), validation metrics (accuracy, ROC‑AUC), and how results were operationalized in a dashboard."
+          },
+          {
+            "question": "Describe a time you had to translate complex analytical findings to non‑technical healthcare stakeholders. How did you ensure understanding and adoption?",
+            "category": "Behavioral",
+            "recommended_talking_point": "Reference the executive Power BI/ Tableau dashboards, focus on storytelling, use of visual cues, and the training sessions conducted for 20+ non‑technical team members."
+          },
+          {
+            "question": "How would you approach extracting and preparing data from an EHR system for a risk‑scoring model?",
+            "category": "Domain & Problem Solving",
+            "recommended_talking_point": "Leverage SQL expertise to write efficient queries, discuss data cleaning steps, handling of missing clinical codes, and mapping to feature sets; draw parallels to prior experience cleaning large transactional datasets."
+          }
+        ]
+      },
+      "execution_time_seconds": 15.11,
+      "model_used": "openai/gpt-oss-120b",
+      "error": null
+    },
+    {
+      "job_id": "job-4",
+      "job_title": "Product Operations & Reporting Specialist",
+      "company": "SaaS Horizon",
+      "overall_match_score": 75.0,
+      "skill_score": 78.0,
+      "experience_score": 85.0,
+      "ats_score": 70.0,
+      "domain_score": 60.0,
+      "match_tier": "⚡ Medium Fit",
+      "executive_summary": "Muhammad brings 3.5 years of strong analytics experience, excelling in Power BI, SQL, and Excel dashboard delivery with proven stakeholder communication. While he lacks direct Jira and SaaS‑specific metric experience, his churn analysis and KPI reporting background are highly transferable to the Product Operations role.",
+      "key_strengths": [
+        "Expertise in building automated Power BI dashboards and KPI decks",
+        "Strong SQL and Python‑based ETL pipeline development that reduces reporting latency",
+        "Proven ability to translate complex data into executive‑level presentations"
+      ],
+      "risk_factors_or_gaps": [
+        "No documented experience with Jira ticketing or workflow management",
+        "Limited exposure to core SaaS metrics such as MRR and feature adoption",
+        "No explicit product‑ops or SaaS industry experience"
+      ],
+      "skills_breakdown": {
+        "matched_skills": [
+          "Excel",
+          "Power BI",
+          "SQL",
+          "Stakeholder Communication",
+          "KPI Reporting",
+          "Data Modeling"
+        ],
+        "missing_critical_skills": [
+          "Jira",
+          "SaaS Metrics (MRR, Feature Adoption)"
+        ],
+        "missing_nice_to_have": [
+          "Tableau (already possessed but not required)",
+          "Google Sheets"
+        ],
+        "transferable_skills": [
+          "Python ETL pipelines → can be applied to product telemetry data extraction",
+          "Customer churn analysis → relevant for user churn tracking in SaaS",
+          "Automated dashboard creation → aligns with weekly KPI deck production"
+        ],
+        "skill_match_score": 78.0
+      },
+      "ats_optimization": {
+        "ats_score": 70.0,
+        "missing_keywords": [
+          "Jira",
+          "MRR",
+          "Feature Adoption",
+          "SaaS"
+        ],
+        "formatting_recommendations": [
+          "Add a dedicated 'Technical Skills' section that lists Excel, Power BI, SQL, and Jira (even as a learning goal).",
+          "Include the exact job title 'Product Operations & Reporting Specialist' in the resume headline."
+        ],
+        "bullet_point_improvements": [
+          "Quantify the frequency and audience of KPI decks (e.g., \"Delivered weekly KPI decks to senior leadership\").",
+          "Add a bullet that mentions experience with ticketing or workflow tools, or explicitly state willingness to adopt Jira."
+        ]
+      },
+      "application_kit": {
+        "tailored_resume_bullets": [
+          "Spearheaded the design and automation of weekly Power BI KPI dashboards tracking sales, churn, and feature adoption, cutting report delivery time by 45% and delivering actionable insights to executive leadership.",
+          "Developed and optimized SQL queries across PostgreSQL databases to validate product telemetry, enabling accurate measurement of MRR and user‑behavior funnels, which contributed to $120K in cost‑optimization opportunities.",
+          "Partnered with product and marketing teams to define, monitor, and present core SaaS metrics (MRR, churn, feature adoption) in executive decks, streamlining stakeholder communication and driving data‑informed decision‑making."
+        ],
+        "elevator_pitch": "I am a data‑driven analyst with 3.5 years of experience delivering high‑impact Power BI dashboards and SQL‑based insights that accelerate business decisions. My proven track record in churn analysis and KPI reporting, combined with strong stakeholder communication, positions me to quickly add value to SaaS Horizon’s product operations, while I am eager to deepen my expertise in Jira and SaaS‑specific metrics.",
+        "interview_questions": [
+          {
+            "question": "Can you walk us through how you would build a weekly KPI deck that includes MRR, churn, and feature adoption using Power BI and SQL?",
+            "category": "Technical",
+            "recommended_talking_point": "Describe a past Power BI dashboard project, emphasize data extraction via SQL, define metric calculations, and highlight automation steps that ensure weekly delivery."
+          },
+          {
+            "question": "Tell me about a time you had to manage conflicting stakeholder requests for a reporting solution. How did you prioritize and communicate?",
+            "category": "Behavioral",
+            "recommended_talking_point": "Reference the collaboration with marketing and product teams, explain how you gathered requirements, set clear priorities, delivered incremental dashboards, and kept stakeholders informed."
+          },
+          {
+            "question": "How would you approach learning and using Jira for issue escalation in a product ops environment?",
+            "category": "Domain & Problem Solving",
+            "recommended_talking_point": "Show willingness to adopt new tools, outline a quick‑start plan (e.g., training, pilot projects), and connect past experience with ticketing or workflow automation to illustrate transferable skills."
+          }
+        ]
+      },
+      "execution_time_seconds": 44.07,
+      "model_used": "openai/gpt-oss-120b",
+      "error": null
+    }
+  ],
+  "comparison_table": [
+    {
+      "job_id": "job-4",
+      "job_title": "Product Operations & Reporting Specialist",
+      "company": "SaaS Horizon",
+      "overall_score": 75.0,
+      "skill_score": 78.0,
+      "experience_score": 85.0,
+      "ats_score": 70.0,
+      "match_tier": "⚡ Medium Fit",
+      "top_missing_skills": [
+        "Jira",
+        "SaaS Metrics (MRR, Feature Adoption)"
+      ],
+      "processing_time": 44.07
+    },
+    {
+      "job_id": "job-1",
+      "job_title": "Senior Data Analyst - Business Intelligence",
+      "company": "Fintech Innovators Inc.",
+      "overall_score": 71.4,
+      "skill_score": 66.7,
+      "experience_score": 87.5,
+      "ats_score": 33.3,
+      "match_tier": "⚡ Medium Fit",
+      "top_missing_skills": [
+        "DAX",
+        "Fintech"
+      ],
+      "processing_time": 42.6
+    },
+    {
+      "job_id": "job-3",
+      "job_title": "Junior Data Scientist & BI Analyst",
+      "company": "Alpha Health Analytics",
+      "overall_score": 66.5,
+      "skill_score": 70.0,
+      "experience_score": 78.0,
+      "ats_score": 85.0,
+      "match_tier": "⚡ Medium Fit",
+      "top_missing_skills": [
+        "Scikit-Learn",
+        "Machine Learning model development (regression, classification, clustering)"
+      ],
+      "processing_time": 15.11
+    },
+    {
+      "job_id": "job-2",
+      "job_title": "Data Engineer / Analytics Engineer",
+      "company": "DataFlow Systems",
+      "overall_score": 35.0,
+      "skill_score": 30.0,
+      "experience_score": 40.0,
+      "ats_score": 45.0,
+      "match_tier": "⚠️ Stretch / Low Fit",
+      "top_missing_skills": [
+        "dbt",
+        "Apache Airflow",
+        "Snowflake"
+      ],
+      "processing_time": 4.62
+    }
+  ],
+  "total_batch_duration_seconds": 44.1
+}

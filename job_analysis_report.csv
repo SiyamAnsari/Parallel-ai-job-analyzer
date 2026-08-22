@@ -1,0 +1,5 @@
+Rank,Job Title,Company,Overall Fit Score,Match Tier,Skill Score,Experience Score,ATS Score,Missing Critical Skills,Latency (s)
+1,Product Operations & Reporting Specialist,SaaS Horizon,75.0%,⚡ Medium Fit,78.0%,85.0%,70.0%,"Jira; SaaS Metrics (MRR, Feature Adoption)",44.07s
+2,Senior Data Analyst - Business Intelligence,Fintech Innovators Inc.,71.4%,⚡ Medium Fit,66.7%,87.5%,33.3%,DAX; Fintech,42.60s
+3,Junior Data Scientist & BI Analyst,Alpha Health Analytics,66.5%,⚡ Medium Fit,70.0%,78.0%,85.0%,"Scikit-Learn; Machine Learning model development (regression, classification, clustering)",15.11s
+4,Data Engineer / Analytics Engineer,DataFlow Systems,35.0%,⚠️ Stretch / Low Fit,30.0%,40.0%,45.0%,dbt; Apache Airflow; Snowflake,4.62s
